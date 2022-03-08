@@ -20,7 +20,8 @@ Solution :
  Using C++, Arduino Uno, a button, 4 leds and 20 meters of jumpwires I was able to put this project together.
 
 
- Software enables you to switch the status of the LED lights using a button.
+ Software enables you to switch the
+ status of the LED lights using a button.
  Switch is between Red and Green leds. 
  -------------------------------------
  
